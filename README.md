@@ -1,1 +1,0 @@
-# Modeling-a-School-Management-System
